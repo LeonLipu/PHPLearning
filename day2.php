@@ -1,5 +1,5 @@
 <?php
-
+//it is about inheritance of class
 class bapa {
 
 	public $var = "i am variable ";

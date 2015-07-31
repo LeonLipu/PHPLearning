@@ -1,5 +1,5 @@
 <?php
-
+// it is about  magic method present in php
 echo "hi";
 
 class abc {

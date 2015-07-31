@@ -1,5 +1,5 @@
 <?php
-
+// it is about json decode and encode
 $json = '{"a":1,"b":2,"c":3,"d":4}';
 
 $ob = json_decode($json);
