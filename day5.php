@@ -1,4 +1,5 @@
 <?php
+//it is about database
 
 $username = "root";
 $password = "";
