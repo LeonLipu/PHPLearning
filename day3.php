@@ -20,7 +20,7 @@ class abc {
 	}
 
 	public function __construct() {
-		echo "object is initilized \n";
+		echo "object isonmethind edit eds initilized \n";
 	}
 }
 
