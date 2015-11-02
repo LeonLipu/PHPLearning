@@ -10,7 +10,7 @@ function change (&$temp){
 change($no);
 
 echo "$no";
-//dynamic function call 
+//dynamic function call
 $fun = "change";
 
 $no1=30;
