@@ -15,5 +15,10 @@ echo "tail invoked";
 $function=rand(0,1) ? 'head':'tail';
 $function();
 
+$lamba2='head';
+echo is_callable($lamba2);
+$lam3="something";
+is_callable($lam3);
+
 
  ?>
