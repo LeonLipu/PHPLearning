@@ -1,4 +1,4 @@
-<?php
+ <?php
 //it is about inheritance of class
 class bapa {
 
