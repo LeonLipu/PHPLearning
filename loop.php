@@ -13,4 +13,7 @@ foreach($arr as $element){
   echo "$element<br>";
 }
 
+while(list($var ,$arr)==each($arr)){
+  print "$var and $arr"
+}
  ?>
