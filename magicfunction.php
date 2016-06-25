@@ -5,7 +5,7 @@ echo "hi";
 class abc {
 
 	public function hello() {
-		echo "something \n ";
+		echo "hello function is called  \n ";
 	}
 
 	public function __invoke() {
